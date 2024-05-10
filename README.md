@@ -1,7 +1,7 @@
 ```markdown
 # Pothole Detection Project
 
-## **Overview**
+**## Overview**
 This project explores various methods for pothole detection using convolutional neural networks (CNNs). We evaluate the performance of three different models: CNN with Fully Connected Layer Model, CNN with Global Average Pooling Model, and YOLO v4. The aim is to find an efficient and accurate method for detecting potholes in road images.
 
 ## Table of Contents
